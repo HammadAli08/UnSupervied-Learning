@@ -1,0 +1,1001 @@
+Year,Region,Event_Type,Impact_Level,Casualties,Economic_Loss,Description
+1963,Europe,War,High,288389,131475314,A war occurred in Europe around 1963 with high impact.
+1857,Asia,Reform,Low,0,0,A reform occurred in Asia around 1857 with low impact.
+1973,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 1973 with low impact.
+1951,South America,War,Low,98246,117380369,A war occurred in South America around 1951 with low impact.
+1859,Africa,Peace Treaty,Low,0,0,A peace treaty occurred in Africa around 1859 with low impact.
+1943,Asia,Reform,High,0,0,A reform occurred in Asia around 1943 with high impact.
+1979,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 1979 with low impact.
+1914,Africa,Economic Crisis,Low,0,407381601,A economic crisis occurred in Africa around 1914 with low impact.
+2006,Asia,Reform,Medium,0,0,A reform occurred in Asia around 2006 with medium impact.
+1887,North America,Revolution,Low,800581,0,A revolution occurred in North America around 1887 with low impact.
+1886,Europe,War,Medium,101414,192725585,A war occurred in Europe around 1886 with medium impact.
+2016,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 2016 with medium impact.
+2006,Europe,Reform,Medium,0,0,A reform occurred in Europe around 2006 with medium impact.
+1937,Europe,Discovery,Low,0,0,A discovery occurred in Europe around 1937 with low impact.
+1941,North America,Pandemic,High,648564,0,A pandemic occurred in North America around 1941 with high impact.
+2020,North America,Peace Treaty,Low,0,0,A peace treaty occurred in North America around 2020 with low impact.
+1980,Europe,War,High,238968,415037905,A war occurred in Europe around 1980 with high impact.
+1874,Europe,Pandemic,Low,908573,0,A pandemic occurred in Europe around 1874 with low impact.
+1825,South America,Economic Crisis,Medium,0,341280485,A economic crisis occurred in South America around 1825 with medium impact.
+2013,North America,Revolution,Medium,372528,0,A revolution occurred in North America around 2013 with medium impact.
+1853,Oceania,Economic Crisis,High,0,366976859,A economic crisis occurred in Oceania around 1853 with high impact.
+1965,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1965 with high impact.
+1843,Africa,Reform,Low,0,0,A reform occurred in Africa around 1843 with low impact.
+1841,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1841 with medium impact.
+1963,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 1963 with low impact.
+1975,North America,Pandemic,Low,240174,0,A pandemic occurred in North America around 1975 with low impact.
+2010,Europe,Pandemic,Medium,420651,0,A pandemic occurred in Europe around 2010 with medium impact.
+1868,Europe,Revolution,High,918938,0,A revolution occurred in Europe around 1868 with high impact.
+1983,North America,Revolution,High,523481,0,A revolution occurred in North America around 1983 with high impact.
+1901,Oceania,Discovery,Low,0,0,A discovery occurred in Oceania around 1901 with low impact.
+1867,Asia,Revolution,High,588637,0,A revolution occurred in Asia around 1867 with high impact.
+1937,North America,Reform,High,0,0,A reform occurred in North America around 1937 with high impact.
+1909,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1909 with medium impact.
+1856,Asia,Peace Treaty,Medium,0,0,A peace treaty occurred in Asia around 1856 with medium impact.
+1823,Middle East,War,Low,160265,336857528,A war occurred in Middle East around 1823 with low impact.
+1840,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 1840 with medium impact.
+1952,Europe,Discovery,Medium,0,0,A discovery occurred in Europe around 1952 with medium impact.
+1952,South America,Peace Treaty,Medium,0,0,A peace treaty occurred in South America around 1952 with medium impact.
+1941,Middle East,War,High,755731,61499497,A war occurred in Middle East around 1941 with high impact.
+1974,Africa,Pandemic,Medium,805934,0,A pandemic occurred in Africa around 1974 with medium impact.
+1964,North America,War,Medium,455884,84910297,A war occurred in North America around 1964 with medium impact.
+1916,Europe,Reform,High,0,0,A reform occurred in Europe around 1916 with high impact.
+1867,Africa,Pandemic,Low,532342,0,A pandemic occurred in Africa around 1867 with low impact.
+1827,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 1827 with medium impact.
+2015,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 2015 with high impact.
+1850,Asia,Economic Crisis,Low,0,289576908,A economic crisis occurred in Asia around 1850 with low impact.
+1999,Africa,War,High,339902,262318192,A war occurred in Africa around 1999 with high impact.
+1804,Europe,Economic Crisis,Medium,0,128554982,A economic crisis occurred in Europe around 1804 with medium impact.
+1814,Asia,Peace Treaty,Low,0,0,A peace treaty occurred in Asia around 1814 with low impact.
+1821,Oceania,Discovery,Low,0,0,A discovery occurred in Oceania around 1821 with low impact.
+1994,Africa,Pandemic,Low,134628,0,A pandemic occurred in Africa around 1994 with low impact.
+1968,South America,Peace Treaty,Low,0,0,A peace treaty occurred in South America around 1968 with low impact.
+1867,Africa,Pandemic,High,443692,0,A pandemic occurred in Africa around 1867 with high impact.
+1854,Africa,Pandemic,High,723378,0,A pandemic occurred in Africa around 1854 with high impact.
+1851,Oceania,Economic Crisis,Medium,0,360609191,A economic crisis occurred in Oceania around 1851 with medium impact.
+1966,North America,Discovery,High,0,0,A discovery occurred in North America around 1966 with high impact.
+1915,Europe,Revolution,Low,67136,0,A revolution occurred in Europe around 1915 with low impact.
+1886,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1886 with high impact.
+1858,Africa,Revolution,Low,74441,0,A revolution occurred in Africa around 1858 with low impact.
+1981,Oceania,War,Low,70674,486093668,A war occurred in Oceania around 1981 with low impact.
+1808,Middle East,Economic Crisis,Low,0,276035466,A economic crisis occurred in Middle East around 1808 with low impact.
+1860,North America,Reform,Medium,0,0,A reform occurred in North America around 1860 with medium impact.
+1854,Africa,Revolution,High,980957,0,A revolution occurred in Africa around 1854 with high impact.
+1946,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 1946 with low impact.
+2000,South America,Pandemic,Medium,199659,0,A pandemic occurred in South America around 2000 with medium impact.
+1824,Europe,Reform,Medium,0,0,A reform occurred in Europe around 1824 with medium impact.
+1890,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1890 with medium impact.
+1986,Europe,Reform,High,0,0,A reform occurred in Europe around 1986 with high impact.
+1965,Europe,War,Medium,763587,182161696,A war occurred in Europe around 1965 with medium impact.
+2004,Middle East,War,Low,200896,102117629,A war occurred in Middle East around 2004 with low impact.
+1937,South America,Revolution,Medium,192401,0,A revolution occurred in South America around 1937 with medium impact.
+1871,South America,Revolution,Low,464656,0,A revolution occurred in South America around 1871 with low impact.
+2006,Middle East,Pandemic,High,102664,0,A pandemic occurred in Middle East around 2006 with high impact.
+1812,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 1812 with low impact.
+1823,Middle East,Pandemic,Low,174389,0,A pandemic occurred in Middle East around 1823 with low impact.
+1904,South America,Discovery,Low,0,0,A discovery occurred in South America around 1904 with low impact.
+1902,Europe,Revolution,Medium,2260,0,A revolution occurred in Europe around 1902 with medium impact.
+1899,North America,Pandemic,Medium,299105,0,A pandemic occurred in North America around 1899 with medium impact.
+1908,Oceania,Reform,High,0,0,A reform occurred in Oceania around 1908 with high impact.
+1969,Oceania,Discovery,Low,0,0,A discovery occurred in Oceania around 1969 with low impact.
+1848,North America,Revolution,Low,607314,0,A revolution occurred in North America around 1848 with low impact.
+1988,Africa,War,High,328838,30690373,A war occurred in Africa around 1988 with high impact.
+1812,Africa,Discovery,High,0,0,A discovery occurred in Africa around 1812 with high impact.
+2018,Africa,Revolution,Low,532496,0,A revolution occurred in Africa around 2018 with low impact.
+1820,Middle East,Revolution,Low,623939,0,A revolution occurred in Middle East around 1820 with low impact.
+1817,Oceania,Pandemic,Low,423389,0,A pandemic occurred in Oceania around 1817 with low impact.
+1830,Africa,Revolution,High,623398,0,A revolution occurred in Africa around 1830 with high impact.
+1810,Africa,War,Medium,689305,313356673,A war occurred in Africa around 1810 with medium impact.
+1944,Africa,Economic Crisis,Medium,0,109660823,A economic crisis occurred in Africa around 1944 with medium impact.
+1971,Oceania,Economic Crisis,Low,0,142600706,A economic crisis occurred in Oceania around 1971 with low impact.
+1901,Asia,Reform,High,0,0,A reform occurred in Asia around 1901 with high impact.
+1876,South America,Economic Crisis,Low,0,5001198,A economic crisis occurred in South America around 1876 with low impact.
+1917,Africa,Peace Treaty,Low,0,0,A peace treaty occurred in Africa around 1917 with low impact.
+1818,Africa,Revolution,High,278082,0,A revolution occurred in Africa around 1818 with high impact.
+1833,North America,War,Low,387477,153001442,A war occurred in North America around 1833 with low impact.
+1840,South America,Pandemic,High,737715,0,A pandemic occurred in South America around 1840 with high impact.
+1877,Africa,Pandemic,High,554634,0,A pandemic occurred in Africa around 1877 with high impact.
+1802,Oceania,Pandemic,High,313921,0,A pandemic occurred in Oceania around 1802 with high impact.
+1969,Europe,Revolution,Medium,121035,0,A revolution occurred in Europe around 1969 with medium impact.
+1827,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 1827 with low impact.
+1869,North America,Peace Treaty,Low,0,0,A peace treaty occurred in North America around 1869 with low impact.
+1983,North America,Revolution,High,665046,0,A revolution occurred in North America around 1983 with high impact.
+2018,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 2018 with medium impact.
+1864,Middle East,War,Low,665095,227405510,A war occurred in Middle East around 1864 with low impact.
+2012,North America,War,Low,349759,413991481,A war occurred in North America around 2012 with low impact.
+1833,Oceania,Economic Crisis,Low,0,397945315,A economic crisis occurred in Oceania around 1833 with low impact.
+1913,Africa,Reform,Medium,0,0,A reform occurred in Africa around 1913 with medium impact.
+1943,Europe,War,Low,990957,474114134,A war occurred in Europe around 1943 with low impact.
+1976,Asia,Peace Treaty,Low,0,0,A peace treaty occurred in Asia around 1976 with low impact.
+2013,North America,Peace Treaty,High,0,0,A peace treaty occurred in North America around 2013 with high impact.
+1837,South America,Revolution,Low,323232,0,A revolution occurred in South America around 1837 with low impact.
+1893,Middle East,Pandemic,Low,942590,0,A pandemic occurred in Middle East around 1893 with low impact.
+1891,Asia,Reform,Low,0,0,A reform occurred in Asia around 1891 with low impact.
+1970,Europe,Economic Crisis,High,0,474666203,A economic crisis occurred in Europe around 1970 with high impact.
+1904,Africa,Reform,Low,0,0,A reform occurred in Africa around 1904 with low impact.
+1860,Middle East,Revolution,Low,924231,0,A revolution occurred in Middle East around 1860 with low impact.
+1905,Europe,Revolution,High,969395,0,A revolution occurred in Europe around 1905 with high impact.
+1885,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1885 with high impact.
+1988,Middle East,Revolution,Medium,166931,0,A revolution occurred in Middle East around 1988 with medium impact.
+2001,Oceania,War,Medium,914533,20790113,A war occurred in Oceania around 2001 with medium impact.
+2019,South America,Revolution,Low,856253,0,A revolution occurred in South America around 2019 with low impact.
+1917,North America,Economic Crisis,Low,0,119681170,A economic crisis occurred in North America around 1917 with low impact.
+1806,Oceania,Revolution,Medium,344207,0,A revolution occurred in Oceania around 1806 with medium impact.
+1871,Middle East,War,Medium,368203,344392886,A war occurred in Middle East around 1871 with medium impact.
+1930,South America,Reform,High,0,0,A reform occurred in South America around 1930 with high impact.
+1884,Europe,War,Medium,187241,311701739,A war occurred in Europe around 1884 with medium impact.
+1867,Europe,War,High,455673,185589352,A war occurred in Europe around 1867 with high impact.
+1986,Middle East,Economic Crisis,Medium,0,325455898,A economic crisis occurred in Middle East around 1986 with medium impact.
+1930,Europe,Discovery,High,0,0,A discovery occurred in Europe around 1930 with high impact.
+1848,North America,War,High,457239,907996,A war occurred in North America around 1848 with high impact.
+1933,Middle East,Peace Treaty,High,0,0,A peace treaty occurred in Middle East around 1933 with high impact.
+1984,Oceania,Reform,High,0,0,A reform occurred in Oceania around 1984 with high impact.
+1850,North America,Discovery,Low,0,0,A discovery occurred in North America around 1850 with low impact.
+1970,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 1970 with medium impact.
+1969,Middle East,War,High,943767,161234290,A war occurred in Middle East around 1969 with high impact.
+1929,North America,Reform,Medium,0,0,A reform occurred in North America around 1929 with medium impact.
+1883,South America,Reform,Medium,0,0,A reform occurred in South America around 1883 with medium impact.
+1941,Asia,Revolution,Medium,697229,0,A revolution occurred in Asia around 1941 with medium impact.
+1897,Oceania,Reform,Low,0,0,A reform occurred in Oceania around 1897 with low impact.
+1957,Africa,Economic Crisis,Medium,0,294171548,A economic crisis occurred in Africa around 1957 with medium impact.
+2013,Europe,Economic Crisis,Medium,0,112840968,A economic crisis occurred in Europe around 2013 with medium impact.
+1910,Middle East,Peace Treaty,High,0,0,A peace treaty occurred in Middle East around 1910 with high impact.
+1967,North America,Discovery,Medium,0,0,A discovery occurred in North America around 1967 with medium impact.
+1913,Oceania,Revolution,High,496171,0,A revolution occurred in Oceania around 1913 with high impact.
+2003,Middle East,Reform,Low,0,0,A reform occurred in Middle East around 2003 with low impact.
+1968,Europe,Economic Crisis,High,0,356403814,A economic crisis occurred in Europe around 1968 with high impact.
+1962,Africa,Economic Crisis,Low,0,439387748,A economic crisis occurred in Africa around 1962 with low impact.
+1992,Asia,Reform,Medium,0,0,A reform occurred in Asia around 1992 with medium impact.
+1857,Middle East,Revolution,Low,25611,0,A revolution occurred in Middle East around 1857 with low impact.
+1811,Asia,Discovery,High,0,0,A discovery occurred in Asia around 1811 with high impact.
+2017,Middle East,War,Medium,434572,475741131,A war occurred in Middle East around 2017 with medium impact.
+1961,Africa,Revolution,High,730180,0,A revolution occurred in Africa around 1961 with high impact.
+1898,South America,Discovery,Low,0,0,A discovery occurred in South America around 1898 with low impact.
+1837,Oceania,Reform,Low,0,0,A reform occurred in Oceania around 1837 with low impact.
+1992,Middle East,Pandemic,Low,816232,0,A pandemic occurred in Middle East around 1992 with low impact.
+1908,Asia,Revolution,High,543118,0,A revolution occurred in Asia around 1908 with high impact.
+1918,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1918 with low impact.
+2017,Europe,Discovery,Low,0,0,A discovery occurred in Europe around 2017 with low impact.
+2005,South America,Reform,High,0,0,A reform occurred in South America around 2005 with high impact.
+1943,Africa,Economic Crisis,Medium,0,328915210,A economic crisis occurred in Africa around 1943 with medium impact.
+2008,Oceania,Peace Treaty,Medium,0,0,A peace treaty occurred in Oceania around 2008 with medium impact.
+2012,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 2012 with low impact.
+1990,Middle East,Discovery,Medium,0,0,A discovery occurred in Middle East around 1990 with medium impact.
+1866,Middle East,Revolution,High,290782,0,A revolution occurred in Middle East around 1866 with high impact.
+1996,Middle East,Peace Treaty,Medium,0,0,A peace treaty occurred in Middle East around 1996 with medium impact.
+1960,Asia,Economic Crisis,Medium,0,41598558,A economic crisis occurred in Asia around 1960 with medium impact.
+1982,North America,Revolution,Medium,352161,0,A revolution occurred in North America around 1982 with medium impact.
+1881,Africa,War,Low,158157,124157563,A war occurred in Africa around 1881 with low impact.
+1898,Oceania,Revolution,High,224345,0,A revolution occurred in Oceania around 1898 with high impact.
+1816,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1816 with medium impact.
+1938,South America,Discovery,Low,0,0,A discovery occurred in South America around 1938 with low impact.
+1852,Middle East,Discovery,Medium,0,0,A discovery occurred in Middle East around 1852 with medium impact.
+1997,Africa,Reform,Low,0,0,A reform occurred in Africa around 1997 with low impact.
+2019,Middle East,Peace Treaty,Medium,0,0,A peace treaty occurred in Middle East around 2019 with medium impact.
+1922,Europe,Economic Crisis,Medium,0,404518879,A economic crisis occurred in Europe around 1922 with medium impact.
+1899,Middle East,Pandemic,Medium,564365,0,A pandemic occurred in Middle East around 1899 with medium impact.
+1991,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 1991 with high impact.
+1856,South America,Revolution,Medium,457007,0,A revolution occurred in South America around 1856 with medium impact.
+1924,Europe,Discovery,Medium,0,0,A discovery occurred in Europe around 1924 with medium impact.
+1971,Oceania,Pandemic,Medium,759359,0,A pandemic occurred in Oceania around 1971 with medium impact.
+1842,Middle East,Discovery,Low,0,0,A discovery occurred in Middle East around 1842 with low impact.
+1959,Africa,War,Medium,620644,303005638,A war occurred in Africa around 1959 with medium impact.
+1969,Europe,War,High,449433,72853105,A war occurred in Europe around 1969 with high impact.
+1918,Asia,War,Medium,397519,175746125,A war occurred in Asia around 1918 with medium impact.
+1854,South America,Economic Crisis,Medium,0,408682086,A economic crisis occurred in South America around 1854 with medium impact.
+1897,North America,Pandemic,Medium,264525,0,A pandemic occurred in North America around 1897 with medium impact.
+2013,Europe,Discovery,Low,0,0,A discovery occurred in Europe around 2013 with low impact.
+1991,Africa,War,Medium,235113,349043454,A war occurred in Africa around 1991 with medium impact.
+1817,Middle East,Reform,Low,0,0,A reform occurred in Middle East around 1817 with low impact.
+1993,Europe,Revolution,Low,879995,0,A revolution occurred in Europe around 1993 with low impact.
+1805,Africa,Revolution,Low,132352,0,A revolution occurred in Africa around 1805 with low impact.
+1921,Oceania,War,High,993795,117018823,A war occurred in Oceania around 1921 with high impact.
+1919,Oceania,Economic Crisis,Medium,0,90081110,A economic crisis occurred in Oceania around 1919 with medium impact.
+1955,Africa,Reform,High,0,0,A reform occurred in Africa around 1955 with high impact.
+1829,Middle East,Pandemic,Low,326147,0,A pandemic occurred in Middle East around 1829 with low impact.
+1827,Africa,War,Medium,603766,363648055,A war occurred in Africa around 1827 with medium impact.
+1896,South America,Reform,Low,0,0,A reform occurred in South America around 1896 with low impact.
+1819,Africa,Reform,High,0,0,A reform occurred in Africa around 1819 with high impact.
+1862,Europe,Reform,Medium,0,0,A reform occurred in Europe around 1862 with medium impact.
+2017,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 2017 with low impact.
+2003,Africa,Pandemic,Low,364069,0,A pandemic occurred in Africa around 2003 with low impact.
+1936,South America,Reform,Medium,0,0,A reform occurred in South America around 1936 with medium impact.
+1817,Africa,Reform,Medium,0,0,A reform occurred in Africa around 1817 with medium impact.
+1803,Middle East,Discovery,Medium,0,0,A discovery occurred in Middle East around 1803 with medium impact.
+1827,South America,Economic Crisis,High,0,478660689,A economic crisis occurred in South America around 1827 with high impact.
+2012,South America,Reform,Low,0,0,A reform occurred in South America around 2012 with low impact.
+1911,Asia,Reform,High,0,0,A reform occurred in Asia around 1911 with high impact.
+1966,North America,Peace Treaty,High,0,0,A peace treaty occurred in North America around 1966 with high impact.
+1998,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1998 with medium impact.
+2011,Oceania,Peace Treaty,Medium,0,0,A peace treaty occurred in Oceania around 2011 with medium impact.
+1882,Middle East,Revolution,Low,292477,0,A revolution occurred in Middle East around 1882 with low impact.
+1915,Asia,Pandemic,Medium,597530,0,A pandemic occurred in Asia around 1915 with medium impact.
+1956,Oceania,Discovery,Medium,0,0,A discovery occurred in Oceania around 1956 with medium impact.
+1807,South America,Pandemic,Medium,190672,0,A pandemic occurred in South America around 1807 with medium impact.
+1924,Asia,Economic Crisis,Medium,0,182718024,A economic crisis occurred in Asia around 1924 with medium impact.
+1871,Africa,Reform,Medium,0,0,A reform occurred in Africa around 1871 with medium impact.
+1942,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1942 with low impact.
+1821,Asia,Reform,Medium,0,0,A reform occurred in Asia around 1821 with medium impact.
+1925,Africa,Pandemic,Low,724156,0,A pandemic occurred in Africa around 1925 with low impact.
+1921,Oceania,Reform,Medium,0,0,A reform occurred in Oceania around 1921 with medium impact.
+1914,Middle East,War,Low,308528,118968663,A war occurred in Middle East around 1914 with low impact.
+1903,Oceania,Revolution,Medium,696212,0,A revolution occurred in Oceania around 1903 with medium impact.
+1948,North America,Discovery,High,0,0,A discovery occurred in North America around 1948 with high impact.
+1935,North America,Discovery,High,0,0,A discovery occurred in North America around 1935 with high impact.
+1940,North America,Economic Crisis,High,0,243602634,A economic crisis occurred in North America around 1940 with high impact.
+1869,North America,Economic Crisis,Low,0,64776632,A economic crisis occurred in North America around 1869 with low impact.
+1984,Asia,Economic Crisis,Low,0,398831233,A economic crisis occurred in Asia around 1984 with low impact.
+1937,Middle East,Reform,Low,0,0,A reform occurred in Middle East around 1937 with low impact.
+1849,Asia,Reform,Medium,0,0,A reform occurred in Asia around 1849 with medium impact.
+1870,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 1870 with high impact.
+1952,North America,War,Low,310636,122129095,A war occurred in North America around 1952 with low impact.
+1892,Asia,Economic Crisis,Low,0,380114529,A economic crisis occurred in Asia around 1892 with low impact.
+1936,Asia,Economic Crisis,Low,0,29273432,A economic crisis occurred in Asia around 1936 with low impact.
+1941,North America,Reform,Low,0,0,A reform occurred in North America around 1941 with low impact.
+1963,Middle East,Pandemic,Medium,107570,0,A pandemic occurred in Middle East around 1963 with medium impact.
+1803,Africa,Economic Crisis,Medium,0,257007733,A economic crisis occurred in Africa around 1803 with medium impact.
+1912,North America,Revolution,Low,264742,0,A revolution occurred in North America around 1912 with low impact.
+2020,South America,War,Low,420172,264004426,A war occurred in South America around 2020 with low impact.
+1818,Africa,Reform,High,0,0,A reform occurred in Africa around 1818 with high impact.
+1813,Asia,Revolution,High,995230,0,A revolution occurred in Asia around 1813 with high impact.
+1877,Europe,Revolution,Low,585181,0,A revolution occurred in Europe around 1877 with low impact.
+1995,South America,Peace Treaty,High,0,0,A peace treaty occurred in South America around 1995 with high impact.
+2002,Africa,Revolution,High,398855,0,A revolution occurred in Africa around 2002 with high impact.
+1915,South America,Economic Crisis,High,0,230226264,A economic crisis occurred in South America around 1915 with high impact.
+1878,Africa,Peace Treaty,Low,0,0,A peace treaty occurred in Africa around 1878 with low impact.
+1956,Oceania,War,Low,655900,113293290,A war occurred in Oceania around 1956 with low impact.
+1867,Oceania,War,Low,251516,93315439,A war occurred in Oceania around 1867 with low impact.
+1941,Europe,Revolution,Low,428361,0,A revolution occurred in Europe around 1941 with low impact.
+1915,Oceania,Peace Treaty,Medium,0,0,A peace treaty occurred in Oceania around 1915 with medium impact.
+1874,Europe,Revolution,Medium,741296,0,A revolution occurred in Europe around 1874 with medium impact.
+1872,Oceania,Pandemic,Medium,74637,0,A pandemic occurred in Oceania around 1872 with medium impact.
+1975,Asia,Economic Crisis,High,0,316640873,A economic crisis occurred in Asia around 1975 with high impact.
+1969,Middle East,Revolution,Medium,120351,0,A revolution occurred in Middle East around 1969 with medium impact.
+1939,Asia,Reform,Low,0,0,A reform occurred in Asia around 1939 with low impact.
+1868,Middle East,Revolution,Low,62535,0,A revolution occurred in Middle East around 1868 with low impact.
+1842,Middle East,Economic Crisis,High,0,402093615,A economic crisis occurred in Middle East around 1842 with high impact.
+2011,Africa,Economic Crisis,Medium,0,66761860,A economic crisis occurred in Africa around 2011 with medium impact.
+1919,Oceania,Economic Crisis,High,0,216095115,A economic crisis occurred in Oceania around 1919 with high impact.
+1869,Africa,Peace Treaty,Medium,0,0,A peace treaty occurred in Africa around 1869 with medium impact.
+1912,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1912 with low impact.
+1910,Oceania,Economic Crisis,High,0,134415245,A economic crisis occurred in Oceania around 1910 with high impact.
+1806,Europe,Revolution,High,876566,0,A revolution occurred in Europe around 1806 with high impact.
+2020,Africa,Peace Treaty,Low,0,0,A peace treaty occurred in Africa around 2020 with low impact.
+1995,Oceania,Pandemic,Medium,604238,0,A pandemic occurred in Oceania around 1995 with medium impact.
+1810,Middle East,Pandemic,Low,493355,0,A pandemic occurred in Middle East around 1810 with low impact.
+1932,Oceania,Discovery,Medium,0,0,A discovery occurred in Oceania around 1932 with medium impact.
+1846,Africa,Discovery,High,0,0,A discovery occurred in Africa around 1846 with high impact.
+2008,South America,War,Medium,364863,219230215,A war occurred in South America around 2008 with medium impact.
+1885,North America,Reform,Low,0,0,A reform occurred in North America around 1885 with low impact.
+2019,Asia,Economic Crisis,Medium,0,372413217,A economic crisis occurred in Asia around 2019 with medium impact.
+1926,North America,Reform,Medium,0,0,A reform occurred in North America around 1926 with medium impact.
+2008,Middle East,Peace Treaty,Low,0,0,A peace treaty occurred in Middle East around 2008 with low impact.
+1916,Europe,Economic Crisis,Medium,0,173556292,A economic crisis occurred in Europe around 1916 with medium impact.
+1829,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1829 with high impact.
+2011,Europe,Reform,High,0,0,A reform occurred in Europe around 2011 with high impact.
+1918,South America,War,Low,543623,194228815,A war occurred in South America around 1918 with low impact.
+1959,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1959 with high impact.
+1913,Middle East,War,Low,280028,294860050,A war occurred in Middle East around 1913 with low impact.
+1833,North America,Discovery,High,0,0,A discovery occurred in North America around 1833 with high impact.
+1924,Europe,War,High,638448,429128294,A war occurred in Europe around 1924 with high impact.
+1861,Oceania,Revolution,Medium,577596,0,A revolution occurred in Oceania around 1861 with medium impact.
+1803,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 1803 with low impact.
+1857,Middle East,War,Medium,993065,63064156,A war occurred in Middle East around 1857 with medium impact.
+1965,Middle East,Revolution,Medium,977957,0,A revolution occurred in Middle East around 1965 with medium impact.
+1983,North America,Peace Treaty,High,0,0,A peace treaty occurred in North America around 1983 with high impact.
+1869,South America,Pandemic,Medium,495158,0,A pandemic occurred in South America around 1869 with medium impact.
+1862,South America,Peace Treaty,Low,0,0,A peace treaty occurred in South America around 1862 with low impact.
+1898,Asia,Peace Treaty,High,0,0,A peace treaty occurred in Asia around 1898 with high impact.
+1991,Asia,Pandemic,Low,289666,0,A pandemic occurred in Asia around 1991 with low impact.
+1997,Middle East,Pandemic,Medium,356385,0,A pandemic occurred in Middle East around 1997 with medium impact.
+2001,Africa,Economic Crisis,Low,0,151848023,A economic crisis occurred in Africa around 2001 with low impact.
+1985,North America,Pandemic,High,608093,0,A pandemic occurred in North America around 1985 with high impact.
+1968,South America,Pandemic,Low,468238,0,A pandemic occurred in South America around 1968 with low impact.
+1937,South America,Economic Crisis,Medium,0,296308407,A economic crisis occurred in South America around 1937 with medium impact.
+1995,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1995 with medium impact.
+1882,Middle East,Revolution,High,250405,0,A revolution occurred in Middle East around 1882 with high impact.
+1946,South America,Revolution,Medium,45767,0,A revolution occurred in South America around 1946 with medium impact.
+1881,Oceania,Discovery,High,0,0,A discovery occurred in Oceania around 1881 with high impact.
+2007,South America,Discovery,High,0,0,A discovery occurred in South America around 2007 with high impact.
+2002,Middle East,Reform,Low,0,0,A reform occurred in Middle East around 2002 with low impact.
+1926,Europe,Revolution,High,618849,0,A revolution occurred in Europe around 1926 with high impact.
+1884,Middle East,War,Medium,104555,282367836,A war occurred in Middle East around 1884 with medium impact.
+1916,Europe,Reform,Low,0,0,A reform occurred in Europe around 1916 with low impact.
+1904,Middle East,Reform,Low,0,0,A reform occurred in Middle East around 1904 with low impact.
+1819,South America,Pandemic,Medium,355007,0,A pandemic occurred in South America around 1819 with medium impact.
+1959,Oceania,Discovery,High,0,0,A discovery occurred in Oceania around 1959 with high impact.
+1820,Middle East,Economic Crisis,High,0,461355823,A economic crisis occurred in Middle East around 1820 with high impact.
+1936,South America,Economic Crisis,High,0,385858478,A economic crisis occurred in South America around 1936 with high impact.
+1994,South America,Pandemic,High,37642,0,A pandemic occurred in South America around 1994 with high impact.
+1958,Europe,Revolution,High,717644,0,A revolution occurred in Europe around 1958 with high impact.
+1873,Asia,Reform,Low,0,0,A reform occurred in Asia around 1873 with low impact.
+1911,Europe,Pandemic,High,738083,0,A pandemic occurred in Europe around 1911 with high impact.
+1825,South America,Revolution,High,314012,0,A revolution occurred in South America around 1825 with high impact.
+1807,Europe,Economic Crisis,Low,0,157500627,A economic crisis occurred in Europe around 1807 with low impact.
+1891,North America,Discovery,Low,0,0,A discovery occurred in North America around 1891 with low impact.
+1862,Africa,Discovery,High,0,0,A discovery occurred in Africa around 1862 with high impact.
+1974,Middle East,Revolution,Low,183573,0,A revolution occurred in Middle East around 1974 with low impact.
+1820,Africa,Pandemic,Medium,649813,0,A pandemic occurred in Africa around 1820 with medium impact.
+1974,Asia,Discovery,High,0,0,A discovery occurred in Asia around 1974 with high impact.
+1836,Asia,Discovery,High,0,0,A discovery occurred in Asia around 1836 with high impact.
+1865,South America,Economic Crisis,High,0,5045206,A economic crisis occurred in South America around 1865 with high impact.
+2005,South America,Economic Crisis,High,0,293452642,A economic crisis occurred in South America around 2005 with high impact.
+1840,Europe,Discovery,Medium,0,0,A discovery occurred in Europe around 1840 with medium impact.
+1950,North America,Reform,Medium,0,0,A reform occurred in North America around 1950 with medium impact.
+1976,North America,Discovery,Medium,0,0,A discovery occurred in North America around 1976 with medium impact.
+1850,South America,Pandemic,Medium,111834,0,A pandemic occurred in South America around 1850 with medium impact.
+1860,South America,Peace Treaty,Medium,0,0,A peace treaty occurred in South America around 1860 with medium impact.
+1947,North America,Reform,Medium,0,0,A reform occurred in North America around 1947 with medium impact.
+1805,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 1805 with medium impact.
+1870,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1870 with high impact.
+1999,Oceania,War,High,781369,266678430,A war occurred in Oceania around 1999 with high impact.
+2013,North America,Pandemic,Low,636553,0,A pandemic occurred in North America around 2013 with low impact.
+2005,North America,Revolution,High,199367,0,A revolution occurred in North America around 2005 with high impact.
+1958,North America,Reform,High,0,0,A reform occurred in North America around 1958 with high impact.
+1996,Oceania,Reform,Low,0,0,A reform occurred in Oceania around 1996 with low impact.
+1960,Europe,Reform,High,0,0,A reform occurred in Europe around 1960 with high impact.
+1810,North America,Pandemic,Medium,34985,0,A pandemic occurred in North America around 1810 with medium impact.
+1948,North America,Reform,Low,0,0,A reform occurred in North America around 1948 with low impact.
+1823,North America,Economic Crisis,High,0,223071524,A economic crisis occurred in North America around 1823 with high impact.
+1844,Asia,Revolution,High,919035,0,A revolution occurred in Asia around 1844 with high impact.
+1893,Africa,Peace Treaty,Medium,0,0,A peace treaty occurred in Africa around 1893 with medium impact.
+2012,Asia,Economic Crisis,Medium,0,432980213,A economic crisis occurred in Asia around 2012 with medium impact.
+1875,Oceania,Pandemic,Medium,843298,0,A pandemic occurred in Oceania around 1875 with medium impact.
+1829,South America,War,Low,790785,121125964,A war occurred in South America around 1829 with low impact.
+2020,Oceania,Reform,High,0,0,A reform occurred in Oceania around 2020 with high impact.
+1901,Middle East,Pandemic,High,383542,0,A pandemic occurred in Middle East around 1901 with high impact.
+1823,Middle East,Discovery,Low,0,0,A discovery occurred in Middle East around 1823 with low impact.
+1867,Africa,War,Medium,386490,361221985,A war occurred in Africa around 1867 with medium impact.
+1991,Oceania,Economic Crisis,High,0,204561504,A economic crisis occurred in Oceania around 1991 with high impact.
+2010,Oceania,Economic Crisis,Low,0,362300116,A economic crisis occurred in Oceania around 2010 with low impact.
+1859,South America,War,High,927187,301403292,A war occurred in South America around 1859 with high impact.
+1883,Africa,Revolution,High,66287,0,A revolution occurred in Africa around 1883 with high impact.
+1962,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1962 with high impact.
+1877,Oceania,Discovery,Low,0,0,A discovery occurred in Oceania around 1877 with low impact.
+1835,Europe,War,Medium,516554,62341708,A war occurred in Europe around 1835 with medium impact.
+1824,Asia,Peace Treaty,Low,0,0,A peace treaty occurred in Asia around 1824 with low impact.
+1899,South America,Economic Crisis,High,0,398970314,A economic crisis occurred in South America around 1899 with high impact.
+1978,Africa,Discovery,High,0,0,A discovery occurred in Africa around 1978 with high impact.
+1990,Oceania,Revolution,Medium,686735,0,A revolution occurred in Oceania around 1990 with medium impact.
+1825,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1825 with high impact.
+1904,North America,War,High,388528,116645773,A war occurred in North America around 1904 with high impact.
+1913,South America,Revolution,Medium,104180,0,A revolution occurred in South America around 1913 with medium impact.
+1975,North America,Peace Treaty,High,0,0,A peace treaty occurred in North America around 1975 with high impact.
+1891,Europe,Discovery,Medium,0,0,A discovery occurred in Europe around 1891 with medium impact.
+1848,Europe,Pandemic,Medium,96126,0,A pandemic occurred in Europe around 1848 with medium impact.
+1969,Asia,Reform,High,0,0,A reform occurred in Asia around 1969 with high impact.
+1952,Europe,War,Medium,255400,67604868,A war occurred in Europe around 1952 with medium impact.
+2001,Africa,Revolution,Low,870127,0,A revolution occurred in Africa around 2001 with low impact.
+1995,Africa,Revolution,High,226441,0,A revolution occurred in Africa around 1995 with high impact.
+2008,Middle East,Revolution,Medium,811984,0,A revolution occurred in Middle East around 2008 with medium impact.
+1837,Middle East,Peace Treaty,Low,0,0,A peace treaty occurred in Middle East around 1837 with low impact.
+1870,Middle East,Revolution,Low,566456,0,A revolution occurred in Middle East around 1870 with low impact.
+1864,Middle East,Revolution,Low,693169,0,A revolution occurred in Middle East around 1864 with low impact.
+1806,Asia,War,Medium,828358,423285959,A war occurred in Asia around 1806 with medium impact.
+1860,Africa,Economic Crisis,Low,0,93547717,A economic crisis occurred in Africa around 1860 with low impact.
+1867,Europe,Revolution,High,441409,0,A revolution occurred in Europe around 1867 with high impact.
+1934,Europe,Reform,Low,0,0,A reform occurred in Europe around 1934 with low impact.
+1921,South America,Pandemic,Medium,538169,0,A pandemic occurred in South America around 1921 with medium impact.
+1951,Europe,Discovery,High,0,0,A discovery occurred in Europe around 1951 with high impact.
+1856,Africa,War,High,821273,487882344,A war occurred in Africa around 1856 with high impact.
+1968,Africa,Economic Crisis,Medium,0,345390898,A economic crisis occurred in Africa around 1968 with medium impact.
+1807,Europe,Discovery,Medium,0,0,A discovery occurred in Europe around 1807 with medium impact.
+1909,Oceania,War,Medium,747006,488391912,A war occurred in Oceania around 1909 with medium impact.
+1913,Europe,War,Medium,637846,79636119,A war occurred in Europe around 1913 with medium impact.
+1816,Asia,Economic Crisis,High,0,339880479,A economic crisis occurred in Asia around 1816 with high impact.
+1949,Africa,Reform,Medium,0,0,A reform occurred in Africa around 1949 with medium impact.
+1897,Africa,Peace Treaty,Medium,0,0,A peace treaty occurred in Africa around 1897 with medium impact.
+1916,Africa,Peace Treaty,Medium,0,0,A peace treaty occurred in Africa around 1916 with medium impact.
+1825,Middle East,Reform,Low,0,0,A reform occurred in Middle East around 1825 with low impact.
+2018,Oceania,Reform,High,0,0,A reform occurred in Oceania around 2018 with high impact.
+1984,Middle East,Revolution,Medium,473489,0,A revolution occurred in Middle East around 1984 with medium impact.
+1858,South America,Economic Crisis,Medium,0,214066637,A economic crisis occurred in South America around 1858 with medium impact.
+1906,Oceania,War,Medium,447494,167784815,A war occurred in Oceania around 1906 with medium impact.
+1970,North America,Economic Crisis,Low,0,368734232,A economic crisis occurred in North America around 1970 with low impact.
+1921,Europe,War,Low,97758,231861940,A war occurred in Europe around 1921 with low impact.
+1824,Oceania,Reform,Medium,0,0,A reform occurred in Oceania around 1824 with medium impact.
+2007,Asia,Peace Treaty,Low,0,0,A peace treaty occurred in Asia around 2007 with low impact.
+1950,Africa,Peace Treaty,Medium,0,0,A peace treaty occurred in Africa around 1950 with medium impact.
+1971,Europe,Discovery,Medium,0,0,A discovery occurred in Europe around 1971 with medium impact.
+1970,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1970 with high impact.
+1813,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 1813 with medium impact.
+1890,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1890 with high impact.
+1854,Asia,Reform,Medium,0,0,A reform occurred in Asia around 1854 with medium impact.
+1857,Middle East,War,Medium,886438,298642752,A war occurred in Middle East around 1857 with medium impact.
+1894,Europe,Pandemic,Medium,601987,0,A pandemic occurred in Europe around 1894 with medium impact.
+1857,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1857 with high impact.
+1996,Middle East,Peace Treaty,High,0,0,A peace treaty occurred in Middle East around 1996 with high impact.
+1972,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 1972 with low impact.
+1955,Oceania,Pandemic,High,280439,0,A pandemic occurred in Oceania around 1955 with high impact.
+1807,Asia,Economic Crisis,High,0,409315492,A economic crisis occurred in Asia around 1807 with high impact.
+1879,North America,Economic Crisis,Low,0,97391367,A economic crisis occurred in North America around 1879 with low impact.
+1836,Africa,Reform,Medium,0,0,A reform occurred in Africa around 1836 with medium impact.
+1817,Asia,Reform,High,0,0,A reform occurred in Asia around 1817 with high impact.
+1807,Europe,Reform,High,0,0,A reform occurred in Europe around 1807 with high impact.
+1855,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1855 with medium impact.
+1887,Asia,Economic Crisis,Medium,0,387403885,A economic crisis occurred in Asia around 1887 with medium impact.
+1883,Middle East,Peace Treaty,High,0,0,A peace treaty occurred in Middle East around 1883 with high impact.
+1821,Europe,Revolution,Low,791083,0,A revolution occurred in Europe around 1821 with low impact.
+1958,Europe,Reform,Low,0,0,A reform occurred in Europe around 1958 with low impact.
+1869,South America,Reform,Medium,0,0,A reform occurred in South America around 1869 with medium impact.
+1924,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1924 with medium impact.
+1869,Asia,Pandemic,High,119346,0,A pandemic occurred in Asia around 1869 with high impact.
+1888,South America,War,Medium,711163,364259534,A war occurred in South America around 1888 with medium impact.
+1951,South America,Peace Treaty,High,0,0,A peace treaty occurred in South America around 1951 with high impact.
+1878,Europe,Revolution,Medium,628437,0,A revolution occurred in Europe around 1878 with medium impact.
+1814,Europe,Revolution,Medium,991244,0,A revolution occurred in Europe around 1814 with medium impact.
+1854,Middle East,Revolution,Medium,303507,0,A revolution occurred in Middle East around 1854 with medium impact.
+1883,Europe,War,Medium,783301,231206151,A war occurred in Europe around 1883 with medium impact.
+1844,Asia,Discovery,High,0,0,A discovery occurred in Asia around 1844 with high impact.
+1980,Asia,Peace Treaty,High,0,0,A peace treaty occurred in Asia around 1980 with high impact.
+2013,Oceania,Pandemic,Medium,75576,0,A pandemic occurred in Oceania around 2013 with medium impact.
+1901,Middle East,Reform,Low,0,0,A reform occurred in Middle East around 1901 with low impact.
+1911,Europe,Discovery,Low,0,0,A discovery occurred in Europe around 1911 with low impact.
+2020,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 2020 with medium impact.
+1946,South America,Reform,High,0,0,A reform occurred in South America around 1946 with high impact.
+1906,North America,War,Medium,21869,174358591,A war occurred in North America around 1906 with medium impact.
+1843,Middle East,Peace Treaty,Medium,0,0,A peace treaty occurred in Middle East around 1843 with medium impact.
+2012,Oceania,Economic Crisis,Low,0,234457851,A economic crisis occurred in Oceania around 2012 with low impact.
+2016,Europe,Revolution,Medium,617476,0,A revolution occurred in Europe around 2016 with medium impact.
+1902,Africa,War,Medium,912811,166577385,A war occurred in Africa around 1902 with medium impact.
+1990,North America,Revolution,Medium,816964,0,A revolution occurred in North America around 1990 with medium impact.
+1843,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1843 with high impact.
+1829,Africa,Peace Treaty,Low,0,0,A peace treaty occurred in Africa around 1829 with low impact.
+1998,North America,Economic Crisis,High,0,439669680,A economic crisis occurred in North America around 1998 with high impact.
+1965,Middle East,Revolution,Low,107798,0,A revolution occurred in Middle East around 1965 with low impact.
+1837,North America,Revolution,Low,631661,0,A revolution occurred in North America around 1837 with low impact.
+1839,Middle East,Pandemic,High,79013,0,A pandemic occurred in Middle East around 1839 with high impact.
+1845,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 1845 with medium impact.
+1918,Middle East,Peace Treaty,High,0,0,A peace treaty occurred in Middle East around 1918 with high impact.
+1914,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 1914 with high impact.
+1962,Africa,Economic Crisis,High,0,169725778,A economic crisis occurred in Africa around 1962 with high impact.
+1838,South America,War,Medium,463688,338972304,A war occurred in South America around 1838 with medium impact.
+1877,Middle East,Economic Crisis,High,0,30157177,A economic crisis occurred in Middle East around 1877 with high impact.
+1890,Africa,War,Medium,484172,242619410,A war occurred in Africa around 1890 with medium impact.
+1809,Europe,Economic Crisis,Medium,0,41194642,A economic crisis occurred in Europe around 1809 with medium impact.
+1965,Middle East,Pandemic,Low,644883,0,A pandemic occurred in Middle East around 1965 with low impact.
+1952,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1952 with medium impact.
+1948,Africa,Pandemic,High,939394,0,A pandemic occurred in Africa around 1948 with high impact.
+1810,South America,Pandemic,High,683501,0,A pandemic occurred in South America around 1810 with high impact.
+1848,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 1848 with medium impact.
+1928,Asia,War,Medium,108529,435384491,A war occurred in Asia around 1928 with medium impact.
+2014,North America,Reform,Low,0,0,A reform occurred in North America around 2014 with low impact.
+1929,Oceania,Revolution,Low,259778,0,A revolution occurred in Oceania around 1929 with low impact.
+1981,South America,Discovery,High,0,0,A discovery occurred in South America around 1981 with high impact.
+1933,Africa,Revolution,Medium,390963,0,A revolution occurred in Africa around 1933 with medium impact.
+1872,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1872 with medium impact.
+1973,Africa,War,High,678748,179663501,A war occurred in Africa around 1973 with high impact.
+1816,North America,War,High,711332,207535077,A war occurred in North America around 1816 with high impact.
+1872,North America,Reform,High,0,0,A reform occurred in North America around 1872 with high impact.
+1954,Middle East,Revolution,Medium,85461,0,A revolution occurred in Middle East around 1954 with medium impact.
+1949,Oceania,Revolution,Medium,325301,0,A revolution occurred in Oceania around 1949 with medium impact.
+1967,Oceania,Reform,Medium,0,0,A reform occurred in Oceania around 1967 with medium impact.
+1833,Africa,Reform,Low,0,0,A reform occurred in Africa around 1833 with low impact.
+1879,Africa,Discovery,High,0,0,A discovery occurred in Africa around 1879 with high impact.
+2002,North America,Pandemic,Low,702667,0,A pandemic occurred in North America around 2002 with low impact.
+1979,Middle East,Reform,High,0,0,A reform occurred in Middle East around 1979 with high impact.
+1934,Europe,Reform,High,0,0,A reform occurred in Europe around 1934 with high impact.
+1908,Africa,Economic Crisis,Low,0,194668141,A economic crisis occurred in Africa around 1908 with low impact.
+1879,Asia,Revolution,Medium,993702,0,A revolution occurred in Asia around 1879 with medium impact.
+1996,South America,Revolution,Low,144247,0,A revolution occurred in South America around 1996 with low impact.
+1839,Europe,Economic Crisis,Low,0,272563839,A economic crisis occurred in Europe around 1839 with low impact.
+1997,Africa,Pandemic,High,926607,0,A pandemic occurred in Africa around 1997 with high impact.
+1934,Europe,Reform,Medium,0,0,A reform occurred in Europe around 1934 with medium impact.
+1996,Africa,Revolution,High,395019,0,A revolution occurred in Africa around 1996 with high impact.
+1839,Asia,Revolution,High,808554,0,A revolution occurred in Asia around 1839 with high impact.
+1959,Middle East,Revolution,High,458933,0,A revolution occurred in Middle East around 1959 with high impact.
+1811,South America,Economic Crisis,High,0,386324617,A economic crisis occurred in South America around 1811 with high impact.
+1860,South America,Peace Treaty,Medium,0,0,A peace treaty occurred in South America around 1860 with medium impact.
+1992,Oceania,Pandemic,Medium,245369,0,A pandemic occurred in Oceania around 1992 with medium impact.
+1936,Asia,Economic Crisis,Medium,0,485317525,A economic crisis occurred in Asia around 1936 with medium impact.
+2013,Asia,Economic Crisis,High,0,306241579,A economic crisis occurred in Asia around 2013 with high impact.
+1912,South America,Pandemic,Medium,815922,0,A pandemic occurred in South America around 1912 with medium impact.
+1897,Africa,Peace Treaty,Medium,0,0,A peace treaty occurred in Africa around 1897 with medium impact.
+1841,Middle East,Revolution,High,145121,0,A revolution occurred in Middle East around 1841 with high impact.
+1864,Europe,Reform,Medium,0,0,A reform occurred in Europe around 1864 with medium impact.
+1895,Africa,War,High,886982,276976742,A war occurred in Africa around 1895 with high impact.
+2017,Europe,Economic Crisis,Low,0,409695229,A economic crisis occurred in Europe around 2017 with low impact.
+1841,North America,Discovery,High,0,0,A discovery occurred in North America around 1841 with high impact.
+1837,Middle East,Discovery,Low,0,0,A discovery occurred in Middle East around 1837 with low impact.
+1856,Middle East,Discovery,Medium,0,0,A discovery occurred in Middle East around 1856 with medium impact.
+1806,South America,War,Medium,526392,200769046,A war occurred in South America around 1806 with medium impact.
+1860,South America,War,Medium,235445,15133072,A war occurred in South America around 1860 with medium impact.
+1881,Europe,Pandemic,High,681533,0,A pandemic occurred in Europe around 1881 with high impact.
+1885,Middle East,Revolution,Low,40163,0,A revolution occurred in Middle East around 1885 with low impact.
+1873,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1873 with high impact.
+2012,Asia,Pandemic,High,491897,0,A pandemic occurred in Asia around 2012 with high impact.
+1914,Africa,War,Low,19927,137398112,A war occurred in Africa around 1914 with low impact.
+1855,Middle East,Revolution,High,985898,0,A revolution occurred in Middle East around 1855 with high impact.
+1986,Africa,Peace Treaty,Medium,0,0,A peace treaty occurred in Africa around 1986 with medium impact.
+1828,Middle East,Economic Crisis,Low,0,161679319,A economic crisis occurred in Middle East around 1828 with low impact.
+1831,Europe,Revolution,Medium,669989,0,A revolution occurred in Europe around 1831 with medium impact.
+2003,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 2003 with low impact.
+1828,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1828 with high impact.
+1937,Europe,Reform,High,0,0,A reform occurred in Europe around 1937 with high impact.
+1947,Asia,Reform,Low,0,0,A reform occurred in Asia around 1947 with low impact.
+1874,South America,War,High,369954,129151943,A war occurred in South America around 1874 with high impact.
+1946,South America,Revolution,High,700674,0,A revolution occurred in South America around 1946 with high impact.
+1821,Africa,Economic Crisis,Low,0,282426012,A economic crisis occurred in Africa around 1821 with low impact.
+1939,Africa,Pandemic,High,581070,0,A pandemic occurred in Africa around 1939 with high impact.
+1805,South America,Pandemic,Medium,45649,0,A pandemic occurred in South America around 1805 with medium impact.
+1962,South America,Economic Crisis,Medium,0,401212542,A economic crisis occurred in South America around 1962 with medium impact.
+1804,North America,Pandemic,Low,361551,0,A pandemic occurred in North America around 1804 with low impact.
+1861,Oceania,Reform,High,0,0,A reform occurred in Oceania around 1861 with high impact.
+1826,Middle East,Peace Treaty,High,0,0,A peace treaty occurred in Middle East around 1826 with high impact.
+1993,North America,Revolution,Low,369412,0,A revolution occurred in North America around 1993 with low impact.
+1939,North America,Pandemic,High,183594,0,A pandemic occurred in North America around 1939 with high impact.
+2012,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 2012 with medium impact.
+1978,South America,Reform,Low,0,0,A reform occurred in South America around 1978 with low impact.
+2007,Asia,War,High,813894,245714852,A war occurred in Asia around 2007 with high impact.
+1809,North America,Revolution,Low,829538,0,A revolution occurred in North America around 1809 with low impact.
+1851,Europe,Economic Crisis,Medium,0,276694456,A economic crisis occurred in Europe around 1851 with medium impact.
+1901,Middle East,Peace Treaty,Medium,0,0,A peace treaty occurred in Middle East around 1901 with medium impact.
+1864,Europe,Pandemic,High,200386,0,A pandemic occurred in Europe around 1864 with high impact.
+1873,North America,Pandemic,Low,907855,0,A pandemic occurred in North America around 1873 with low impact.
+1967,North America,Economic Crisis,Low,0,429143691,A economic crisis occurred in North America around 1967 with low impact.
+1894,South America,Discovery,High,0,0,A discovery occurred in South America around 1894 with high impact.
+1912,South America,Economic Crisis,Low,0,266397079,A economic crisis occurred in South America around 1912 with low impact.
+1977,South America,Economic Crisis,High,0,143194581,A economic crisis occurred in South America around 1977 with high impact.
+2005,Europe,Reform,Medium,0,0,A reform occurred in Europe around 2005 with medium impact.
+1820,South America,Peace Treaty,Low,0,0,A peace treaty occurred in South America around 1820 with low impact.
+1939,North America,Economic Crisis,Low,0,42986670,A economic crisis occurred in North America around 1939 with low impact.
+1883,Oceania,Economic Crisis,Medium,0,239399201,A economic crisis occurred in Oceania around 1883 with medium impact.
+1954,Oceania,Discovery,Low,0,0,A discovery occurred in Oceania around 1954 with low impact.
+1976,South America,Economic Crisis,Medium,0,22739252,A economic crisis occurred in South America around 1976 with medium impact.
+1986,Middle East,Economic Crisis,High,0,233506904,A economic crisis occurred in Middle East around 1986 with high impact.
+1870,Oceania,Pandemic,Low,78686,0,A pandemic occurred in Oceania around 1870 with low impact.
+1971,Oceania,Discovery,Medium,0,0,A discovery occurred in Oceania around 1971 with medium impact.
+1931,Middle East,Reform,High,0,0,A reform occurred in Middle East around 1931 with high impact.
+1840,Europe,Revolution,High,711027,0,A revolution occurred in Europe around 1840 with high impact.
+2000,South America,War,Low,70499,126699054,A war occurred in South America around 2000 with low impact.
+1999,Oceania,Economic Crisis,Medium,0,205543388,A economic crisis occurred in Oceania around 1999 with medium impact.
+1945,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1945 with low impact.
+1973,South America,Economic Crisis,Medium,0,238338089,A economic crisis occurred in South America around 1973 with medium impact.
+1995,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1995 with low impact.
+1935,North America,Discovery,Medium,0,0,A discovery occurred in North America around 1935 with medium impact.
+1966,North America,Revolution,Low,27172,0,A revolution occurred in North America around 1966 with low impact.
+1988,Asia,Discovery,High,0,0,A discovery occurred in Asia around 1988 with high impact.
+1899,Africa,War,Medium,812609,139742004,A war occurred in Africa around 1899 with medium impact.
+1980,South America,Revolution,High,299449,0,A revolution occurred in South America around 1980 with high impact.
+1977,South America,Revolution,Low,142321,0,A revolution occurred in South America around 1977 with low impact.
+2018,Europe,Discovery,Low,0,0,A discovery occurred in Europe around 2018 with low impact.
+1982,South America,War,High,886593,171577377,A war occurred in South America around 1982 with high impact.
+1970,North America,Reform,Low,0,0,A reform occurred in North America around 1970 with low impact.
+1940,Africa,Economic Crisis,Medium,0,457071521,A economic crisis occurred in Africa around 1940 with medium impact.
+1840,Oceania,Reform,High,0,0,A reform occurred in Oceania around 1840 with high impact.
+1963,Asia,Pandemic,Medium,533469,0,A pandemic occurred in Asia around 1963 with medium impact.
+1857,Europe,Revolution,Low,248235,0,A revolution occurred in Europe around 1857 with low impact.
+2002,South America,War,Medium,580933,307239093,A war occurred in South America around 2002 with medium impact.
+1894,South America,Pandemic,High,136074,0,A pandemic occurred in South America around 1894 with high impact.
+1956,Europe,War,Medium,417500,384900794,A war occurred in Europe around 1956 with medium impact.
+1984,South America,Peace Treaty,Medium,0,0,A peace treaty occurred in South America around 1984 with medium impact.
+1996,South America,Pandemic,High,77333,0,A pandemic occurred in South America around 1996 with high impact.
+1832,North America,Reform,Low,0,0,A reform occurred in North America around 1832 with low impact.
+1915,South America,Reform,High,0,0,A reform occurred in South America around 1915 with high impact.
+1888,Asia,Pandemic,High,670872,0,A pandemic occurred in Asia around 1888 with high impact.
+1950,Asia,Pandemic,Low,453633,0,A pandemic occurred in Asia around 1950 with low impact.
+1928,Middle East,War,Low,543269,82149553,A war occurred in Middle East around 1928 with low impact.
+1877,Asia,Revolution,Medium,980143,0,A revolution occurred in Asia around 1877 with medium impact.
+1981,Asia,Economic Crisis,High,0,480459695,A economic crisis occurred in Asia around 1981 with high impact.
+1872,Middle East,War,Medium,205837,340943679,A war occurred in Middle East around 1872 with medium impact.
+1941,North America,Revolution,High,317534,0,A revolution occurred in North America around 1941 with high impact.
+1957,Africa,War,High,672124,90535709,A war occurred in Africa around 1957 with high impact.
+1951,Africa,Revolution,Low,690731,0,A revolution occurred in Africa around 1951 with low impact.
+1959,Oceania,Peace Treaty,Medium,0,0,A peace treaty occurred in Oceania around 1959 with medium impact.
+2015,Africa,War,Low,85168,24407119,A war occurred in Africa around 2015 with low impact.
+1964,Middle East,Peace Treaty,Medium,0,0,A peace treaty occurred in Middle East around 1964 with medium impact.
+1966,Asia,Pandemic,High,436822,0,A pandemic occurred in Asia around 1966 with high impact.
+1958,Oceania,War,Medium,932180,336706115,A war occurred in Oceania around 1958 with medium impact.
+1939,North America,Reform,Medium,0,0,A reform occurred in North America around 1939 with medium impact.
+1923,Asia,Pandemic,High,425818,0,A pandemic occurred in Asia around 1923 with high impact.
+1876,South America,War,High,62823,84868795,A war occurred in South America around 1876 with high impact.
+1912,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1912 with medium impact.
+1852,North America,Peace Treaty,Low,0,0,A peace treaty occurred in North America around 1852 with low impact.
+1880,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 1880 with medium impact.
+1987,Middle East,Economic Crisis,Medium,0,70204542,A economic crisis occurred in Middle East around 1987 with medium impact.
+1994,North America,Peace Treaty,High,0,0,A peace treaty occurred in North America around 1994 with high impact.
+1827,North America,Revolution,Medium,128473,0,A revolution occurred in North America around 1827 with medium impact.
+1868,South America,Revolution,Low,101514,0,A revolution occurred in South America around 1868 with low impact.
+1812,North America,Discovery,High,0,0,A discovery occurred in North America around 1812 with high impact.
+1907,Asia,Pandemic,Low,852993,0,A pandemic occurred in Asia around 1907 with low impact.
+1883,Africa,Reform,Medium,0,0,A reform occurred in Africa around 1883 with medium impact.
+1848,Middle East,Revolution,Medium,539728,0,A revolution occurred in Middle East around 1848 with medium impact.
+1919,South America,Economic Crisis,Medium,0,12442682,A economic crisis occurred in South America around 1919 with medium impact.
+1823,South America,Peace Treaty,Medium,0,0,A peace treaty occurred in South America around 1823 with medium impact.
+1861,Asia,Peace Treaty,Medium,0,0,A peace treaty occurred in Asia around 1861 with medium impact.
+1812,Europe,Economic Crisis,Medium,0,320790447,A economic crisis occurred in Europe around 1812 with medium impact.
+2015,Oceania,Reform,Medium,0,0,A reform occurred in Oceania around 2015 with medium impact.
+1873,Africa,War,Low,451860,71905772,A war occurred in Africa around 1873 with low impact.
+1867,Oceania,Economic Crisis,Medium,0,196461120,A economic crisis occurred in Oceania around 1867 with medium impact.
+1811,South America,War,High,589107,104504769,A war occurred in South America around 1811 with high impact.
+1892,Africa,Economic Crisis,Low,0,207419444,A economic crisis occurred in Africa around 1892 with low impact.
+1929,South America,Pandemic,High,293308,0,A pandemic occurred in South America around 1929 with high impact.
+2011,Africa,Reform,High,0,0,A reform occurred in Africa around 2011 with high impact.
+1830,Asia,War,Medium,391326,426757197,A war occurred in Asia around 1830 with medium impact.
+1886,Africa,Economic Crisis,Low,0,106868386,A economic crisis occurred in Africa around 1886 with low impact.
+1954,Africa,Discovery,High,0,0,A discovery occurred in Africa around 1954 with high impact.
+1810,Europe,War,Low,748255,178799867,A war occurred in Europe around 1810 with low impact.
+2005,South America,Peace Treaty,Medium,0,0,A peace treaty occurred in South America around 2005 with medium impact.
+1838,Africa,Peace Treaty,Low,0,0,A peace treaty occurred in Africa around 1838 with low impact.
+1883,Africa,Economic Crisis,Low,0,210965885,A economic crisis occurred in Africa around 1883 with low impact.
+1957,Oceania,Pandemic,Medium,622565,0,A pandemic occurred in Oceania around 1957 with medium impact.
+1886,Africa,Pandemic,High,558198,0,A pandemic occurred in Africa around 1886 with high impact.
+1925,Oceania,Peace Treaty,Medium,0,0,A peace treaty occurred in Oceania around 1925 with medium impact.
+1921,Middle East,War,Medium,347329,361747055,A war occurred in Middle East around 1921 with medium impact.
+1828,South America,Peace Treaty,Medium,0,0,A peace treaty occurred in South America around 1828 with medium impact.
+2003,Oceania,Pandemic,High,659827,0,A pandemic occurred in Oceania around 2003 with high impact.
+1806,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1806 with medium impact.
+1967,Middle East,Pandemic,High,605693,0,A pandemic occurred in Middle East around 1967 with high impact.
+1858,Oceania,War,High,503787,91542966,A war occurred in Oceania around 1858 with high impact.
+1934,Oceania,Reform,High,0,0,A reform occurred in Oceania around 1934 with high impact.
+1998,Middle East,Discovery,Low,0,0,A discovery occurred in Middle East around 1998 with low impact.
+2010,Oceania,Revolution,Low,600383,0,A revolution occurred in Oceania around 2010 with low impact.
+1979,Europe,Revolution,Low,462462,0,A revolution occurred in Europe around 1979 with low impact.
+1880,South America,Revolution,Medium,724042,0,A revolution occurred in South America around 1880 with medium impact.
+1852,South America,Peace Treaty,High,0,0,A peace treaty occurred in South America around 1852 with high impact.
+1920,Middle East,Pandemic,High,762736,0,A pandemic occurred in Middle East around 1920 with high impact.
+1815,Oceania,Revolution,High,217413,0,A revolution occurred in Oceania around 1815 with high impact.
+1943,North America,Reform,Medium,0,0,A reform occurred in North America around 1943 with medium impact.
+1934,South America,Economic Crisis,Low,0,246779977,A economic crisis occurred in South America around 1934 with low impact.
+1936,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 1936 with medium impact.
+1973,Middle East,Pandemic,High,713813,0,A pandemic occurred in Middle East around 1973 with high impact.
+1964,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 1964 with medium impact.
+1956,South America,Revolution,Low,292559,0,A revolution occurred in South America around 1956 with low impact.
+1942,North America,Revolution,Medium,808634,0,A revolution occurred in North America around 1942 with medium impact.
+1873,Oceania,Revolution,High,739233,0,A revolution occurred in Oceania around 1873 with high impact.
+1925,North America,Discovery,Medium,0,0,A discovery occurred in North America around 1925 with medium impact.
+1943,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 1943 with medium impact.
+1873,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1873 with high impact.
+1939,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1939 with medium impact.
+1997,Middle East,Revolution,Medium,44109,0,A revolution occurred in Middle East around 1997 with medium impact.
+1873,Oceania,War,Medium,968894,237498865,A war occurred in Oceania around 1873 with medium impact.
+1967,North America,Reform,Medium,0,0,A reform occurred in North America around 1967 with medium impact.
+1854,Asia,Pandemic,High,284303,0,A pandemic occurred in Asia around 1854 with high impact.
+1943,Oceania,Economic Crisis,Low,0,58640574,A economic crisis occurred in Oceania around 1943 with low impact.
+1957,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 1957 with low impact.
+1862,Europe,Reform,High,0,0,A reform occurred in Europe around 1862 with high impact.
+1857,Oceania,Revolution,Low,105065,0,A revolution occurred in Oceania around 1857 with low impact.
+1905,North America,Reform,Medium,0,0,A reform occurred in North America around 1905 with medium impact.
+1825,Oceania,Pandemic,Low,5433,0,A pandemic occurred in Oceania around 1825 with low impact.
+1940,Asia,Discovery,High,0,0,A discovery occurred in Asia around 1940 with high impact.
+1921,South America,Reform,Low,0,0,A reform occurred in South America around 1921 with low impact.
+1993,North America,Economic Crisis,Medium,0,346763804,A economic crisis occurred in North America around 1993 with medium impact.
+1815,Middle East,War,High,602022,124672269,A war occurred in Middle East around 1815 with high impact.
+1936,Oceania,Reform,Low,0,0,A reform occurred in Oceania around 1936 with low impact.
+1844,South America,Pandemic,Low,979288,0,A pandemic occurred in South America around 1844 with low impact.
+1809,Middle East,Discovery,Medium,0,0,A discovery occurred in Middle East around 1809 with medium impact.
+1847,Oceania,Pandemic,Medium,919331,0,A pandemic occurred in Oceania around 1847 with medium impact.
+1809,Europe,Economic Crisis,High,0,323616641,A economic crisis occurred in Europe around 1809 with high impact.
+1827,North America,Economic Crisis,Medium,0,344301978,A economic crisis occurred in North America around 1827 with medium impact.
+1939,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 1939 with low impact.
+2017,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 2017 with medium impact.
+1849,Middle East,War,Medium,170387,392516648,A war occurred in Middle East around 1849 with medium impact.
+1917,Oceania,Economic Crisis,High,0,99964865,A economic crisis occurred in Oceania around 1917 with high impact.
+1803,Oceania,Economic Crisis,Medium,0,304825222,A economic crisis occurred in Oceania around 1803 with medium impact.
+1972,Middle East,Revolution,Low,640632,0,A revolution occurred in Middle East around 1972 with low impact.
+2019,Oceania,Discovery,Medium,0,0,A discovery occurred in Oceania around 2019 with medium impact.
+1931,North America,War,Medium,701765,51209488,A war occurred in North America around 1931 with medium impact.
+1847,Asia,Discovery,Medium,0,0,A discovery occurred in Asia around 1847 with medium impact.
+1863,Europe,Economic Crisis,Medium,0,126444509,A economic crisis occurred in Europe around 1863 with medium impact.
+1914,Middle East,Economic Crisis,Medium,0,162105936,A economic crisis occurred in Middle East around 1914 with medium impact.
+1949,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 1949 with low impact.
+1866,Oceania,Economic Crisis,High,0,126863981,A economic crisis occurred in Oceania around 1866 with high impact.
+1815,Oceania,War,Medium,321709,85747318,A war occurred in Oceania around 1815 with medium impact.
+1903,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 1903 with high impact.
+1997,North America,Reform,Low,0,0,A reform occurred in North America around 1997 with low impact.
+1963,North America,Economic Crisis,High,0,118567533,A economic crisis occurred in North America around 1963 with high impact.
+1856,Asia,Discovery,Low,0,0,A discovery occurred in Asia around 1856 with low impact.
+1916,Oceania,Peace Treaty,Medium,0,0,A peace treaty occurred in Oceania around 1916 with medium impact.
+1906,Oceania,Peace Treaty,Medium,0,0,A peace treaty occurred in Oceania around 1906 with medium impact.
+1993,Africa,Pandemic,High,865708,0,A pandemic occurred in Africa around 1993 with high impact.
+1855,Middle East,Revolution,High,791401,0,A revolution occurred in Middle East around 1855 with high impact.
+1952,Middle East,Pandemic,Low,551033,0,A pandemic occurred in Middle East around 1952 with low impact.
+1914,Africa,Reform,Medium,0,0,A reform occurred in Africa around 1914 with medium impact.
+1819,Africa,War,Low,869032,294016950,A war occurred in Africa around 1819 with low impact.
+1929,Asia,Peace Treaty,High,0,0,A peace treaty occurred in Asia around 1929 with high impact.
+1838,Asia,Economic Crisis,High,0,237211342,A economic crisis occurred in Asia around 1838 with high impact.
+1829,Oceania,Revolution,High,611474,0,A revolution occurred in Oceania around 1829 with high impact.
+1925,Europe,Peace Treaty,Medium,0,0,A peace treaty occurred in Europe around 1925 with medium impact.
+2007,Europe,Discovery,Low,0,0,A discovery occurred in Europe around 2007 with low impact.
+1931,South America,Discovery,High,0,0,A discovery occurred in South America around 1931 with high impact.
+1814,Africa,Discovery,High,0,0,A discovery occurred in Africa around 1814 with high impact.
+2006,North America,Reform,Low,0,0,A reform occurred in North America around 2006 with low impact.
+1901,North America,Pandemic,Low,782032,0,A pandemic occurred in North America around 1901 with low impact.
+1855,Africa,War,Low,444278,184967526,A war occurred in Africa around 1855 with low impact.
+1979,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1979 with low impact.
+1817,South America,War,Medium,428728,96626737,A war occurred in South America around 1817 with medium impact.
+1996,Asia,Pandemic,High,764715,0,A pandemic occurred in Asia around 1996 with high impact.
+1965,South America,Economic Crisis,Medium,0,240806539,A economic crisis occurred in South America around 1965 with medium impact.
+1896,South America,War,High,693939,469522452,A war occurred in South America around 1896 with high impact.
+1938,Asia,Reform,Medium,0,0,A reform occurred in Asia around 1938 with medium impact.
+1830,Asia,Peace Treaty,Medium,0,0,A peace treaty occurred in Asia around 1830 with medium impact.
+1935,Asia,Reform,Low,0,0,A reform occurred in Asia around 1935 with low impact.
+2013,Europe,Pandemic,Low,312856,0,A pandemic occurred in Europe around 2013 with low impact.
+1918,Oceania,Reform,High,0,0,A reform occurred in Oceania around 1918 with high impact.
+1908,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 1908 with low impact.
+1863,South America,Economic Crisis,Low,0,147988322,A economic crisis occurred in South America around 1863 with low impact.
+1848,Oceania,Pandemic,Low,33782,0,A pandemic occurred in Oceania around 1848 with low impact.
+2007,Oceania,Discovery,High,0,0,A discovery occurred in Oceania around 2007 with high impact.
+1996,Europe,Revolution,Low,70559,0,A revolution occurred in Europe around 1996 with low impact.
+1825,Africa,War,Medium,626822,360789942,A war occurred in Africa around 1825 with medium impact.
+1980,Middle East,War,Low,776513,23749414,A war occurred in Middle East around 1980 with low impact.
+1902,South America,Revolution,High,227823,0,A revolution occurred in South America around 1902 with high impact.
+1993,Middle East,Pandemic,Low,146942,0,A pandemic occurred in Middle East around 1993 with low impact.
+1928,North America,Revolution,High,604095,0,A revolution occurred in North America around 1928 with high impact.
+1881,Africa,Peace Treaty,High,0,0,A peace treaty occurred in Africa around 1881 with high impact.
+2009,North America,Revolution,Medium,918823,0,A revolution occurred in North America around 2009 with medium impact.
+1836,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 1836 with low impact.
+1905,North America,Economic Crisis,Low,0,298885761,A economic crisis occurred in North America around 1905 with low impact.
+1951,Oceania,Revolution,High,711721,0,A revolution occurred in Oceania around 1951 with high impact.
+1909,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 1909 with low impact.
+1888,Oceania,Reform,Medium,0,0,A reform occurred in Oceania around 1888 with medium impact.
+2001,Africa,Economic Crisis,High,0,223512586,A economic crisis occurred in Africa around 2001 with high impact.
+1904,Asia,Economic Crisis,Medium,0,98719274,A economic crisis occurred in Asia around 1904 with medium impact.
+1993,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 1993 with low impact.
+2017,Asia,Economic Crisis,High,0,77498252,A economic crisis occurred in Asia around 2017 with high impact.
+2006,South America,War,High,432723,223610957,A war occurred in South America around 2006 with high impact.
+1942,Africa,Revolution,Medium,254655,0,A revolution occurred in Africa around 1942 with medium impact.
+1865,Asia,Economic Crisis,High,0,42450614,A economic crisis occurred in Asia around 1865 with high impact.
+1915,Middle East,Economic Crisis,Low,0,287567138,A economic crisis occurred in Middle East around 1915 with low impact.
+1985,Middle East,Revolution,Low,281502,0,A revolution occurred in Middle East around 1985 with low impact.
+1896,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 1896 with high impact.
+1810,Middle East,War,Low,843737,408932650,A war occurred in Middle East around 1810 with low impact.
+1950,Oceania,Reform,High,0,0,A reform occurred in Oceania around 1950 with high impact.
+1855,South America,Revolution,Medium,317915,0,A revolution occurred in South America around 1855 with medium impact.
+1803,Asia,Revolution,High,123014,0,A revolution occurred in Asia around 1803 with high impact.
+1991,Middle East,Discovery,Low,0,0,A discovery occurred in Middle East around 1991 with low impact.
+1978,Africa,Reform,Low,0,0,A reform occurred in Africa around 1978 with low impact.
+1901,Asia,Peace Treaty,Medium,0,0,A peace treaty occurred in Asia around 1901 with medium impact.
+1998,North America,Discovery,Medium,0,0,A discovery occurred in North America around 1998 with medium impact.
+1936,Oceania,Economic Crisis,Medium,0,140424830,A economic crisis occurred in Oceania around 1936 with medium impact.
+1892,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1892 with medium impact.
+1825,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 1825 with medium impact.
+1994,Middle East,Economic Crisis,Low,0,199020690,A economic crisis occurred in Middle East around 1994 with low impact.
+1880,South America,War,High,906058,118795625,A war occurred in South America around 1880 with high impact.
+1989,Asia,War,Medium,580189,313549739,A war occurred in Asia around 1989 with medium impact.
+1948,Oceania,Discovery,Medium,0,0,A discovery occurred in Oceania around 1948 with medium impact.
+1839,Asia,Economic Crisis,Low,0,203924925,A economic crisis occurred in Asia around 1839 with low impact.
+1945,Middle East,Revolution,Medium,577390,0,A revolution occurred in Middle East around 1945 with medium impact.
+1967,Oceania,Economic Crisis,Medium,0,409826113,A economic crisis occurred in Oceania around 1967 with medium impact.
+2010,South America,Reform,High,0,0,A reform occurred in South America around 2010 with high impact.
+1989,South America,Discovery,Low,0,0,A discovery occurred in South America around 1989 with low impact.
+1987,Middle East,Economic Crisis,Low,0,75139661,A economic crisis occurred in Middle East around 1987 with low impact.
+1984,Africa,Discovery,Low,0,0,A discovery occurred in Africa around 1984 with low impact.
+1938,Oceania,War,High,35466,450471466,A war occurred in Oceania around 1938 with high impact.
+2016,Europe,Pandemic,High,50871,0,A pandemic occurred in Europe around 2016 with high impact.
+1995,Europe,Discovery,Low,0,0,A discovery occurred in Europe around 1995 with low impact.
+2015,Oceania,Revolution,Low,741521,0,A revolution occurred in Oceania around 2015 with low impact.
+1838,Europe,Revolution,High,478160,0,A revolution occurred in Europe around 1838 with high impact.
+1895,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1895 with high impact.
+1970,Africa,Discovery,High,0,0,A discovery occurred in Africa around 1970 with high impact.
+1924,Europe,War,High,578440,220835680,A war occurred in Europe around 1924 with high impact.
+1803,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1803 with high impact.
+1870,Africa,Economic Crisis,Low,0,269625176,A economic crisis occurred in Africa around 1870 with low impact.
+2008,Oceania,Reform,Medium,0,0,A reform occurred in Oceania around 2008 with medium impact.
+2006,Asia,War,Low,549857,79938730,A war occurred in Asia around 2006 with low impact.
+1861,Asia,Peace Treaty,High,0,0,A peace treaty occurred in Asia around 1861 with high impact.
+1864,Middle East,Economic Crisis,Medium,0,426778193,A economic crisis occurred in Middle East around 1864 with medium impact.
+1901,Europe,Economic Crisis,Medium,0,246422538,A economic crisis occurred in Europe around 1901 with medium impact.
+1944,Asia,Reform,Low,0,0,A reform occurred in Asia around 1944 with low impact.
+1876,Oceania,Pandemic,Low,685491,0,A pandemic occurred in Oceania around 1876 with low impact.
+2019,Oceania,Pandemic,Low,98042,0,A pandemic occurred in Oceania around 2019 with low impact.
+1903,South America,Discovery,High,0,0,A discovery occurred in South America around 1903 with high impact.
+1921,Europe,Reform,Low,0,0,A reform occurred in Europe around 1921 with low impact.
+1979,Asia,War,Medium,886392,232953470,A war occurred in Asia around 1979 with medium impact.
+1965,Middle East,Economic Crisis,High,0,460613933,A economic crisis occurred in Middle East around 1965 with high impact.
+1824,Africa,War,Low,221686,483867235,A war occurred in Africa around 1824 with low impact.
+1977,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1977 with medium impact.
+1811,Europe,Reform,Medium,0,0,A reform occurred in Europe around 1811 with medium impact.
+1939,Africa,Reform,Low,0,0,A reform occurred in Africa around 1939 with low impact.
+1845,Middle East,Economic Crisis,Low,0,111217167,A economic crisis occurred in Middle East around 1845 with low impact.
+1950,Asia,Pandemic,High,860778,0,A pandemic occurred in Asia around 1950 with high impact.
+1901,Europe,Economic Crisis,Low,0,302772754,A economic crisis occurred in Europe around 1901 with low impact.
+1861,Africa,Pandemic,Medium,709922,0,A pandemic occurred in Africa around 1861 with medium impact.
+1938,North America,Discovery,High,0,0,A discovery occurred in North America around 1938 with high impact.
+1835,Middle East,Reform,High,0,0,A reform occurred in Middle East around 1835 with high impact.
+1820,Africa,Reform,Medium,0,0,A reform occurred in Africa around 1820 with medium impact.
+1813,Europe,Discovery,Low,0,0,A discovery occurred in Europe around 1813 with low impact.
+2014,Europe,Economic Crisis,High,0,412856766,A economic crisis occurred in Europe around 2014 with high impact.
+1957,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1957 with medium impact.
+1807,Oceania,Economic Crisis,Medium,0,263390725,A economic crisis occurred in Oceania around 1807 with medium impact.
+1858,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 1858 with medium impact.
+1910,Asia,Reform,High,0,0,A reform occurred in Asia around 1910 with high impact.
+1969,South America,War,High,309727,428452611,A war occurred in South America around 1969 with high impact.
+1863,Oceania,War,Low,280989,82796748,A war occurred in Oceania around 1863 with low impact.
+1897,Oceania,Pandemic,High,161771,0,A pandemic occurred in Oceania around 1897 with high impact.
+1989,South America,Economic Crisis,Medium,0,57204091,A economic crisis occurred in South America around 1989 with medium impact.
+1823,Europe,Economic Crisis,Medium,0,193229233,A economic crisis occurred in Europe around 1823 with medium impact.
+1994,North America,War,Low,91537,100605199,A war occurred in North America around 1994 with low impact.
+1910,South America,Peace Treaty,High,0,0,A peace treaty occurred in South America around 1910 with high impact.
+1931,South America,War,Low,93972,190006285,A war occurred in South America around 1931 with low impact.
+1941,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1941 with high impact.
+2000,North America,Pandemic,Medium,12940,0,A pandemic occurred in North America around 2000 with medium impact.
+1874,South America,Discovery,Low,0,0,A discovery occurred in South America around 1874 with low impact.
+1985,Africa,Revolution,High,546417,0,A revolution occurred in Africa around 1985 with high impact.
+1843,Oceania,Discovery,Low,0,0,A discovery occurred in Oceania around 1843 with low impact.
+1835,North America,Economic Crisis,Medium,0,264743900,A economic crisis occurred in North America around 1835 with medium impact.
+1837,Europe,Revolution,Medium,289366,0,A revolution occurred in Europe around 1837 with medium impact.
+1907,North America,Discovery,Low,0,0,A discovery occurred in North America around 1907 with low impact.
+1892,North America,Revolution,High,655395,0,A revolution occurred in North America around 1892 with high impact.
+1926,Africa,Peace Treaty,Low,0,0,A peace treaty occurred in Africa around 1926 with low impact.
+1917,Europe,Revolution,Medium,7096,0,A revolution occurred in Europe around 1917 with medium impact.
+1901,North America,Pandemic,High,398343,0,A pandemic occurred in North America around 1901 with high impact.
+2005,Middle East,Economic Crisis,Medium,0,179710140,A economic crisis occurred in Middle East around 2005 with medium impact.
+1910,Middle East,Pandemic,High,623266,0,A pandemic occurred in Middle East around 1910 with high impact.
+1834,North America,Economic Crisis,High,0,373282210,A economic crisis occurred in North America around 1834 with high impact.
+1851,South America,Economic Crisis,Low,0,213803247,A economic crisis occurred in South America around 1851 with low impact.
+1881,North America,Reform,High,0,0,A reform occurred in North America around 1881 with high impact.
+1962,South America,Peace Treaty,Low,0,0,A peace treaty occurred in South America around 1962 with low impact.
+1883,South America,Economic Crisis,Medium,0,195966227,A economic crisis occurred in South America around 1883 with medium impact.
+1829,Africa,Revolution,High,572133,0,A revolution occurred in Africa around 1829 with high impact.
+1846,Oceania,Pandemic,High,28223,0,A pandemic occurred in Oceania around 1846 with high impact.
+1986,South America,Reform,Low,0,0,A reform occurred in South America around 1986 with low impact.
+1912,Middle East,Economic Crisis,High,0,37129277,A economic crisis occurred in Middle East around 1912 with high impact.
+2009,Middle East,Pandemic,Medium,705668,0,A pandemic occurred in Middle East around 2009 with medium impact.
+1927,Asia,Reform,Medium,0,0,A reform occurred in Asia around 1927 with medium impact.
+1861,North America,Reform,Low,0,0,A reform occurred in North America around 1861 with low impact.
+1983,South America,Pandemic,Medium,77558,0,A pandemic occurred in South America around 1983 with medium impact.
+1914,Africa,Discovery,High,0,0,A discovery occurred in Africa around 1914 with high impact.
+1902,Africa,Peace Treaty,High,0,0,A peace treaty occurred in Africa around 1902 with high impact.
+1907,Africa,War,Medium,735716,480768712,A war occurred in Africa around 1907 with medium impact.
+2007,Africa,Peace Treaty,High,0,0,A peace treaty occurred in Africa around 2007 with high impact.
+1821,Europe,Pandemic,Low,689545,0,A pandemic occurred in Europe around 1821 with low impact.
+1970,North America,Revolution,High,642439,0,A revolution occurred in North America around 1970 with high impact.
+1811,Africa,Reform,High,0,0,A reform occurred in Africa around 1811 with high impact.
+1965,South America,Pandemic,Medium,834908,0,A pandemic occurred in South America around 1965 with medium impact.
+1910,Europe,War,Low,271306,119185923,A war occurred in Europe around 1910 with low impact.
+1930,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 1930 with high impact.
+1948,Oceania,Peace Treaty,Low,0,0,A peace treaty occurred in Oceania around 1948 with low impact.
+1914,North America,Discovery,Medium,0,0,A discovery occurred in North America around 1914 with medium impact.
+1997,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 1997 with high impact.
+1928,Asia,Economic Crisis,Low,0,259185754,A economic crisis occurred in Asia around 1928 with low impact.
+1826,North America,Discovery,Low,0,0,A discovery occurred in North America around 1826 with low impact.
+1829,Middle East,Reform,Low,0,0,A reform occurred in Middle East around 1829 with low impact.
+1889,North America,Economic Crisis,Medium,0,421051749,A economic crisis occurred in North America around 1889 with medium impact.
+1852,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1852 with medium impact.
+1921,Europe,Discovery,High,0,0,A discovery occurred in Europe around 1921 with high impact.
+1978,South America,Economic Crisis,Low,0,161203053,A economic crisis occurred in South America around 1978 with low impact.
+1811,Middle East,Reform,Low,0,0,A reform occurred in Middle East around 1811 with low impact.
+1805,Middle East,Economic Crisis,High,0,58713640,A economic crisis occurred in Middle East around 1805 with high impact.
+1973,Middle East,Revolution,High,255761,0,A revolution occurred in Middle East around 1973 with high impact.
+1932,Asia,Peace Treaty,Low,0,0,A peace treaty occurred in Asia around 1932 with low impact.
+1884,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1884 with medium impact.
+1859,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1859 with high impact.
+1847,Asia,Reform,High,0,0,A reform occurred in Asia around 1847 with high impact.
+1910,South America,War,High,643937,474109295,A war occurred in South America around 1910 with high impact.
+1850,South America,Peace Treaty,Medium,0,0,A peace treaty occurred in South America around 1850 with medium impact.
+1899,Europe,Reform,Low,0,0,A reform occurred in Europe around 1899 with low impact.
+1852,North America,Pandemic,High,848014,0,A pandemic occurred in North America around 1852 with high impact.
+2003,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 2003 with low impact.
+2004,Middle East,Peace Treaty,Low,0,0,A peace treaty occurred in Middle East around 2004 with low impact.
+1893,North America,Revolution,Medium,119490,0,A revolution occurred in North America around 1893 with medium impact.
+1867,Oceania,Pandemic,Medium,553349,0,A pandemic occurred in Oceania around 1867 with medium impact.
+1963,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 1963 with medium impact.
+1956,South America,Peace Treaty,Low,0,0,A peace treaty occurred in South America around 1956 with low impact.
+1889,North America,Pandemic,Medium,647351,0,A pandemic occurred in North America around 1889 with medium impact.
+1844,Middle East,Reform,High,0,0,A reform occurred in Middle East around 1844 with high impact.
+2004,North America,Peace Treaty,High,0,0,A peace treaty occurred in North America around 2004 with high impact.
+1821,Oceania,Revolution,Medium,123586,0,A revolution occurred in Oceania around 1821 with medium impact.
+1861,North America,War,Low,391439,372285911,A war occurred in North America around 1861 with low impact.
+1836,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 1836 with medium impact.
+1952,Asia,Peace Treaty,Medium,0,0,A peace treaty occurred in Asia around 1952 with medium impact.
+1908,Asia,Discovery,High,0,0,A discovery occurred in Asia around 1908 with high impact.
+1937,Oceania,Reform,Low,0,0,A reform occurred in Oceania around 1937 with low impact.
+1942,Asia,Discovery,Medium,0,0,A discovery occurred in Asia around 1942 with medium impact.
+1835,Asia,Economic Crisis,Medium,0,332543203,A economic crisis occurred in Asia around 1835 with medium impact.
+1813,Middle East,Economic Crisis,Low,0,260172435,A economic crisis occurred in Middle East around 1813 with low impact.
+1834,Asia,Pandemic,Medium,588861,0,A pandemic occurred in Asia around 1834 with medium impact.
+1929,Oceania,Discovery,Medium,0,0,A discovery occurred in Oceania around 1929 with medium impact.
+1975,South America,Discovery,High,0,0,A discovery occurred in South America around 1975 with high impact.
+2015,South America,Discovery,Low,0,0,A discovery occurred in South America around 2015 with low impact.
+1821,Africa,War,Low,306278,17553041,A war occurred in Africa around 1821 with low impact.
+1870,Asia,Peace Treaty,Medium,0,0,A peace treaty occurred in Asia around 1870 with medium impact.
+1843,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1843 with high impact.
+1990,Middle East,Pandemic,Medium,576429,0,A pandemic occurred in Middle East around 1990 with medium impact.
+1930,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1930 with low impact.
+1868,Middle East,Peace Treaty,Medium,0,0,A peace treaty occurred in Middle East around 1868 with medium impact.
+1938,Middle East,Pandemic,Low,796922,0,A pandemic occurred in Middle East around 1938 with low impact.
+1984,South America,Peace Treaty,Low,0,0,A peace treaty occurred in South America around 1984 with low impact.
+1908,Europe,Reform,High,0,0,A reform occurred in Europe around 1908 with high impact.
+1992,Asia,Economic Crisis,Low,0,241448214,A economic crisis occurred in Asia around 1992 with low impact.
+1867,North America,Pandemic,Low,460398,0,A pandemic occurred in North America around 1867 with low impact.
+1830,Middle East,Pandemic,Low,220073,0,A pandemic occurred in Middle East around 1830 with low impact.
+2007,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 2007 with high impact.
+1889,Middle East,Reform,High,0,0,A reform occurred in Middle East around 1889 with high impact.
+1961,South America,Revolution,High,145998,0,A revolution occurred in South America around 1961 with high impact.
+2000,Asia,Pandemic,Low,844565,0,A pandemic occurred in Asia around 2000 with low impact.
+1815,Africa,Economic Crisis,High,0,150906371,A economic crisis occurred in Africa around 1815 with high impact.
+1952,Africa,Revolution,Medium,738253,0,A revolution occurred in Africa around 1952 with medium impact.
+1874,North America,Peace Treaty,Medium,0,0,A peace treaty occurred in North America around 1874 with medium impact.
+2019,Africa,Reform,Low,0,0,A reform occurred in Africa around 2019 with low impact.
+1834,Middle East,Pandemic,Medium,963398,0,A pandemic occurred in Middle East around 1834 with medium impact.
+1815,North America,Pandemic,High,133051,0,A pandemic occurred in North America around 1815 with high impact.
+1979,Middle East,Revolution,Low,153347,0,A revolution occurred in Middle East around 1979 with low impact.
+1982,North America,Pandemic,Low,798462,0,A pandemic occurred in North America around 1982 with low impact.
+2015,Oceania,Discovery,Medium,0,0,A discovery occurred in Oceania around 2015 with medium impact.
+1836,Africa,Reform,Medium,0,0,A reform occurred in Africa around 1836 with medium impact.
+1960,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1960 with medium impact.
+1819,Oceania,Pandemic,Low,422419,0,A pandemic occurred in Oceania around 1819 with low impact.
+1931,Oceania,Economic Crisis,High,0,471006171,A economic crisis occurred in Oceania around 1931 with high impact.
+1894,South America,Discovery,Medium,0,0,A discovery occurred in South America around 1894 with medium impact.
+1948,Europe,Pandemic,High,97666,0,A pandemic occurred in Europe around 1948 with high impact.
+1987,South America,Reform,High,0,0,A reform occurred in South America around 1987 with high impact.
+1978,North America,Pandemic,Low,834328,0,A pandemic occurred in North America around 1978 with low impact.
+1936,South America,Revolution,Medium,864915,0,A revolution occurred in South America around 1936 with medium impact.
+1854,South America,Economic Crisis,Medium,0,444713593,A economic crisis occurred in South America around 1854 with medium impact.
+1872,North America,Peace Treaty,High,0,0,A peace treaty occurred in North America around 1872 with high impact.
+1833,Africa,Pandemic,Medium,826596,0,A pandemic occurred in Africa around 1833 with medium impact.
+1887,Oceania,Pandemic,Low,48174,0,A pandemic occurred in Oceania around 1887 with low impact.
+1825,Oceania,Pandemic,Medium,17072,0,A pandemic occurred in Oceania around 1825 with medium impact.
+1831,Middle East,Revolution,Medium,478693,0,A revolution occurred in Middle East around 1831 with medium impact.
+1800,South America,Revolution,High,953582,0,A revolution occurred in South America around 1800 with high impact.
+1833,Oceania,Economic Crisis,Low,0,469452470,A economic crisis occurred in Oceania around 1833 with low impact.
+1870,Europe,Reform,Medium,0,0,A reform occurred in Europe around 1870 with medium impact.
+1864,Europe,Economic Crisis,High,0,485224075,A economic crisis occurred in Europe around 1864 with high impact.
+1966,Asia,War,Medium,655993,164019024,A war occurred in Asia around 1966 with medium impact.
+1985,Oceania,Pandemic,Low,450081,0,A pandemic occurred in Oceania around 1985 with low impact.
+1967,Europe,Reform,Low,0,0,A reform occurred in Europe around 1967 with low impact.
+1800,Asia,Discovery,Low,0,0,A discovery occurred in Asia around 1800 with low impact.
+1833,Africa,Revolution,High,713013,0,A revolution occurred in Africa around 1833 with high impact.
+1913,Europe,War,High,360263,438682070,A war occurred in Europe around 1913 with high impact.
+1830,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1830 with high impact.
+1833,South America,War,Low,401677,47959257,A war occurred in South America around 1833 with low impact.
+1987,Middle East,War,Low,328572,197333176,A war occurred in Middle East around 1987 with low impact.
+1876,Asia,Discovery,Low,0,0,A discovery occurred in Asia around 1876 with low impact.
+1964,Oceania,Revolution,Low,556278,0,A revolution occurred in Oceania around 1964 with low impact.
+1944,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1944 with high impact.
+1842,South America,Economic Crisis,High,0,114383272,A economic crisis occurred in South America around 1842 with high impact.
+1960,Oceania,Revolution,Medium,646002,0,A revolution occurred in Oceania around 1960 with medium impact.
+1975,South America,Pandemic,Low,90898,0,A pandemic occurred in South America around 1975 with low impact.
+1825,Asia,Pandemic,Low,618213,0,A pandemic occurred in Asia around 1825 with low impact.
+1986,South America,Economic Crisis,Medium,0,168847869,A economic crisis occurred in South America around 1986 with medium impact.
+2002,Asia,Revolution,Medium,675933,0,A revolution occurred in Asia around 2002 with medium impact.
+1821,Asia,Peace Treaty,High,0,0,A peace treaty occurred in Asia around 1821 with high impact.
+1953,Oceania,Peace Treaty,Medium,0,0,A peace treaty occurred in Oceania around 1953 with medium impact.
+1999,Oceania,War,High,918371,161946754,A war occurred in Oceania around 1999 with high impact.
+1852,Africa,Peace Treaty,High,0,0,A peace treaty occurred in Africa around 1852 with high impact.
+1848,Oceania,Discovery,Medium,0,0,A discovery occurred in Oceania around 1848 with medium impact.
+1965,Europe,Pandemic,Low,518927,0,A pandemic occurred in Europe around 1965 with low impact.
+1898,Europe,Revolution,Medium,669077,0,A revolution occurred in Europe around 1898 with medium impact.
+1952,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1952 with low impact.
+1892,North America,Revolution,Medium,902628,0,A revolution occurred in North America around 1892 with medium impact.
+2014,Africa,Discovery,Medium,0,0,A discovery occurred in Africa around 2014 with medium impact.
+1939,Oceania,Revolution,Medium,807788,0,A revolution occurred in Oceania around 1939 with medium impact.
+1818,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1818 with low impact.
+1803,North America,Revolution,Low,967394,0,A revolution occurred in North America around 1803 with low impact.
+1815,Middle East,Discovery,High,0,0,A discovery occurred in Middle East around 1815 with high impact.
+1873,Oceania,Reform,High,0,0,A reform occurred in Oceania around 1873 with high impact.
+1996,South America,Discovery,High,0,0,A discovery occurred in South America around 1996 with high impact.
+1902,Europe,Reform,High,0,0,A reform occurred in Europe around 1902 with high impact.
+1937,Africa,Revolution,Medium,87657,0,A revolution occurred in Africa around 1937 with medium impact.
+1879,Europe,Peace Treaty,Low,0,0,A peace treaty occurred in Europe around 1879 with low impact.
+2006,Asia,Peace Treaty,Medium,0,0,A peace treaty occurred in Asia around 2006 with medium impact.
+1900,Africa,Reform,High,0,0,A reform occurred in Africa around 1900 with high impact.
+1974,Oceania,War,Medium,732614,234873529,A war occurred in Oceania around 1974 with medium impact.
+1986,Middle East,Revolution,Low,256355,0,A revolution occurred in Middle East around 1986 with low impact.
+1822,South America,War,Medium,642039,326864410,A war occurred in South America around 1822 with medium impact.
+1814,North America,Reform,High,0,0,A reform occurred in North America around 1814 with high impact.
+1968,Oceania,Revolution,Low,13280,0,A revolution occurred in Oceania around 1968 with low impact.
+1981,Asia,Reform,Low,0,0,A reform occurred in Asia around 1981 with low impact.
+1841,South America,Economic Crisis,High,0,277681897,A economic crisis occurred in South America around 1841 with high impact.
+2000,Middle East,Reform,Medium,0,0,A reform occurred in Middle East around 2000 with medium impact.
+1842,North America,Revolution,High,819067,0,A revolution occurred in North America around 1842 with high impact.
+1868,Oceania,War,Low,351284,433312727,A war occurred in Oceania around 1868 with low impact.
+1909,North America,Peace Treaty,Low,0,0,A peace treaty occurred in North America around 1909 with low impact.
+1867,Oceania,Peace Treaty,High,0,0,A peace treaty occurred in Oceania around 1867 with high impact.
+1819,South America,Discovery,High,0,0,A discovery occurred in South America around 1819 with high impact.
+1892,Europe,Discovery,High,0,0,A discovery occurred in Europe around 1892 with high impact.
+1842,North America,Revolution,Medium,810894,0,A revolution occurred in North America around 1842 with medium impact.
+1826,Africa,Reform,High,0,0,A reform occurred in Africa around 1826 with high impact.
+1829,Asia,Reform,High,0,0,A reform occurred in Asia around 1829 with high impact.
+1800,Europe,Pandemic,Low,256430,0,A pandemic occurred in Europe around 1800 with low impact.
+1811,South America,Economic Crisis,Medium,0,494042865,A economic crisis occurred in South America around 1811 with medium impact.
+1838,Asia,Pandemic,Low,579720,0,A pandemic occurred in Asia around 1838 with low impact.
+2005,Oceania,Reform,High,0,0,A reform occurred in Oceania around 2005 with high impact.
+1907,Asia,Economic Crisis,Low,0,223476057,A economic crisis occurred in Asia around 1907 with low impact.
+1984,North America,Economic Crisis,Low,0,306841035,A economic crisis occurred in North America around 1984 with low impact.
+1895,Europe,Peace Treaty,High,0,0,A peace treaty occurred in Europe around 1895 with high impact.
+1813,Asia,Revolution,High,48159,0,A revolution occurred in Asia around 1813 with high impact.
+1902,Europe,Discovery,Medium,0,0,A discovery occurred in Europe around 1902 with medium impact.
+1998,Middle East,Economic Crisis,Medium,0,46377872,A economic crisis occurred in Middle East around 1998 with medium impact.
